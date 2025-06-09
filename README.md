@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**cev-api/cev-api** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python enthusiast with a passion for creating innovative solutions. I enjoy building tools and applications that solve real problems—whether that's through reverse engineering, cybersecurity, data analysis, or automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+
+I've worked on a variety of projects, including:
+
+- 🧩 Reverse engineering and cybersecurity tools  
+- 📊 Data analysis and visualization applications  
+- 🤖 Automation scripts and bots  
+- 🧠 Machine learning and AI experiments  
+
+You can find many of these in my repositories right here on GitHub.
+
+## 🧠 Skills
+
+- 🐍 Python programming  
+- 🛠️ Reverse engineering  
+- 🔐 Cybersecurity
+- 🖥️ DFIR 
+- 📈 Data analysis  
+- ⚙️ Automation
+- 🕵️ Threat hunting 
+
+---
+
+## 📬 Contact
+
+If you're interested in collaborating or learning more about my projects, feel free to reach out!
+
+---
+
+Thanks for visiting! ⭐
