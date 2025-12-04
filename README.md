@@ -1,3 +1,3 @@
 
 ## About Me ##
-Python. Reverse Engineering. Learning. Experimenting. Cevapi
+I enjoy improving things, reverse engineering things and eating cevapcici
