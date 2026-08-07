@@ -12,6 +12,7 @@ Mix 500g beef mince + 500g lamb/pork mince with 3–4 minced garlic cloves, 1 gr
 
 - Screenshare for Wurst
 - Ancient City Loot for Voxelmap x SeedMapper
+- Live friend location and chunk/trail sharing on Voxelmap x SeedMapper
 
 ## Donate ##
 Like what I do? Have Bitcoin/Ethereum?
