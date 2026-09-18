@@ -9,6 +9,7 @@ Develop hardware and software projects.
 
 - [Wurst7-CevAPI](https://github.com/cev-api/Wurst7-CevAPI)
 - [Voxelmap x SeedMapper](https://github.com/cev-api/VoxelMap-x-SeedMapper)
+- Updating things to MC26.3
 - [Cevapcici](https://en.wikipedia.org/wiki/%C4%86evapi)
 
 ### Upcoming Features
